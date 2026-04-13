@@ -1,12 +1,12 @@
-# StayFinder - Full Stack Airbnb Clone 🏠
+# StayFinder - Full Stack Airbnb Clone
 
-## 📌 About the Project
+##  About the Project
 StayFinder is a full-stack Airbnb-like booking platform built using Node.js, Express, MongoDB, and MVC architecture.  
 It allows users to browse stays, view details, and perform CRUD operations.
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 - HTML, CSS, JavaScript
 - Node.js
 - Express.js
@@ -16,7 +16,7 @@ It allows users to browse stays, view details, and perform CRUD operations.
 
 ---
 
-## ✨ Features
+##  Features
 - User authentication (Login / Signup)
 - Create, Read, Update, Delete (CRUD) operations
 - MVC structured backend
@@ -26,30 +26,30 @@ It allows users to browse stays, view details, and perform CRUD operations.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Home Page
+###  Home Page
 ![Home](./screenshots/home.png)
 
-### 🔐 Login Page
+###  Login Page
 ![Login](./screenshots/login.png)
 
-### ✏️ Edit Page
+###  Edit Page
 ![Edit](./screenshots/edit.png)
 
 ---
 
-## 🧠 Project Purpose
+##  Project Purpose
 This project was built to understand real-world backend development using MVC architecture and REST APIs.
 
 ---
 
-## 🚀 Status
+##  Status
 ✔ Fully functional backend  
 ✔ Frontend integrated  
 ✔ Database connected  
 
 ---
 
-## 👨‍💻 Author
+##  Author
 thakurAdityasingh25
